@@ -1,0 +1,6 @@
+@BestPracticeApi_HostAddress = http://localhost:5119
+
+GET {{BestPracticeApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
